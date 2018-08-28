@@ -1,2 +1,5 @@
 # hello_world
-lianxi
+*.js linguist-language=Python
+*.css linguist-language=Python
+*.html linguist-language=Python
+print("Hello world!")
