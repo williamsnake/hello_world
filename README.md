@@ -3,3 +3,4 @@
 *.css linguist-language=Python
 *.html linguist-language=Python
 print("Hello world!")
+print("smgui"
